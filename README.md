@@ -23,7 +23,7 @@ cd text-summarizer
 pip install -r requirements.txt
 
 # 3️⃣ Run the Summarizer
- python summarizer.py
+ python app.py
 
 ## How It Works
 1️⃣ Input a long text document (paste text or upload a file).
@@ -31,9 +31,10 @@ pip install -r requirements.txt
 3️⃣ Run the summarizer to generate a summary.
 4️⃣ View or save the summary for later use.
 
-## 📸 Screenshots 
+## 📸 Result Screenshots 
 ![Screenshot 2023-11-27 113113](https://github.com/user-attachments/assets/902c6ba2-c552-4a7e-95ec-e10913a8c1e6) 
-Input the Text
+
+![Screenshot 2023-11-27 113241](https://github.com/user-attachments/assets/a274fe6d-8527-4a97-9300-e973ef3563ad)
 
 
 
