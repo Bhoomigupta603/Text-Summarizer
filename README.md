@@ -14,15 +14,15 @@ This Text Summarizer is a machine learning-based NLP project that automatically 
 - 📚 Libraries: spaCy, STOP_WORDS, string, heapq
 
  ## Installation & Setup
-# 1️⃣ Clone the Repository
+ 1️⃣ Clone the Repository
 
 git clone https://github.com/YourUsername/text-summarizer.git
 - cd text-summarizer
 
-# 2️⃣ Install Dependencies
+ 2️⃣ Install Dependencies
 - pip install -r requirements.txt
 
-# 3️⃣ Run the Summarizer
+ 3️⃣ Run the Summarizer
 - python app.py
 
 ## How It Works
