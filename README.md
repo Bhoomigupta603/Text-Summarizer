@@ -5,9 +5,9 @@ A Natural Language Processing (NLP) project for generating concise summaries of 
 This Text Summarizer is a machine learning-based NLP project that automatically generates short and meaningful summaries from long text input. It helps users quickly understand large documents, articles, or reports.
 
 ## ✨ Features
-✅ Extractive Summarization ** **
-✅ Works with Large Text Files & Articles ** **
-✅ Fast & Efficient Summarization
+- ✅ Extractive Summarization 
+- ✅ Works with Large Text Files & Articles 
+- ✅ Fast & Efficient Summarization
 
 ## ⚙️ Technologies Used
 📝 Programming Language: Python, html, css
