@@ -16,7 +16,7 @@ This Text Summarizer is a machine learning-based NLP project that automatically 
  ## Installation & Setup
  ### 1️⃣ Clone the Repository
 
-  git clone https://github.com/YourUsername/text-summarizer.git
+  git clone https://github.com/Bhoomigupta603/text-summarizer.git
 - cd text-summarizer
 
  ### 2️⃣ Install Dependencies
