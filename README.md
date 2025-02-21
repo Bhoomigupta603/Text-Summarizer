@@ -50,6 +50,19 @@ This Text Summarizer is a machine learning-based NLP project that automatically 
 
 
 
+## 📞 Contact & Support  
+For any queries or suggestions, feel free to connect:  
+🌐 **GitHub**: [Bhoomi Gupta Github Profile](https://github.com/Bhoomigupta603)
+
+
+
+
+
+
+
+
+
+
 
 
 
